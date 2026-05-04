@@ -1,8 +1,8 @@
-source ~/.vim/options.vim
-source ~/.vim/keybinds.vim
-source ~/.vim/plugins.vim
-source ~/.vim/colors.vim
-source ~/.vim/fzf.vim
-source ~/.vim/lightline.vim
-source ~/.vim/lsp.vim
-source ~/.vim/asyncomplete.vim
+source ~/.vim/assets/options.vim
+source ~/.vim/assets/keybinds.vim
+source ~/.vim/assets/plugins.vim
+source ~/.vim/assets/colors.vim
+source ~/.vim/assets/fzf.vim
+source ~/.vim/assets/lightline.vim
+source ~/.vim/assets/lsp.vim
+source ~/.vim/assets/asyncomplete.vim
